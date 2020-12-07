@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		624D6490F010725CB676C14D /* Pods_Core.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3DE6A848B791BC74D2CCCA08 /* Pods_Core.framework */; };
 		B45CE71D257DE77A008C3DD7 /* UseCaseType.swift in Sources */ = {isa = PBXBuildFile; fileRef = B45CE71C257DE77A008C3DD7 /* UseCaseType.swift */; };
+		B4DC28CA257E5CF100FF2C60 /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = B4DC28C9257E5CF100FF2C60 /* LICENSE */; };
 		B4F1E8F2257DE6A900D17D6C /* Core.h in Headers */ = {isa = PBXBuildFile; fileRef = B4F1E8F0257DE6A900D17D6C /* Core.h */; settings = {ATTRIBUTES = (Public, ); }; };
 /* End PBXBuildFile section */
 
@@ -17,6 +18,7 @@
 		3DE6A848B791BC74D2CCCA08 /* Pods_Core.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Core.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		AAA8E341831A95FC9C47FBFC /* Pods-Core.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Core.debug.xcconfig"; path = "../../Core/Pods/Target Support Files/Pods-Core/Pods-Core.debug.xcconfig"; sourceTree = "<group>"; };
 		B45CE71C257DE77A008C3DD7 /* UseCaseType.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UseCaseType.swift; sourceTree = "<group>"; };
+		B4DC28C9257E5CF100FF2C60 /* LICENSE */ = {isa = PBXFileReference; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		B4F1E8ED257DE6A900D17D6C /* Core.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Core.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		B4F1E8F0257DE6A900D17D6C /* Core.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Core.h; sourceTree = "<group>"; };
 		B4F1E8F1257DE6A900D17D6C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -71,6 +73,7 @@
 		B4F1E8E3257DE6A900D17D6C = {
 			isa = PBXGroup;
 			children = (
+				B4DC28C9257E5CF100FF2C60 /* LICENSE */,
 				B4F1E8EF257DE6A900D17D6C /* Core */,
 				B4F1E8EE257DE6A900D17D6C /* Products */,
 				54CEA9C2BB88D98D7ADF2E54 /* Pods */,
@@ -167,6 +170,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B4DC28CA257E5CF100FF2C60 /* LICENSE in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
